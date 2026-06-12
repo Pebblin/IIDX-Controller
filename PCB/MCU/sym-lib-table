@@ -1,4 +1,4 @@
 (sym_lib_table
 	(version 7)
-	(lib (name "Library") (type "KiCad") (uri "../Library/Symbols") (options "") (descr ""))
+	(lib (name "Library") (type "KiCad") (uri "./Library/Symbols") (options "") (descr ""))
 )
