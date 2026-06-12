@@ -14,7 +14,7 @@ Items below subject to change
 | --- | :---: | :---: | --- |
 | ~~Create GitHub Repo~~ | `5/29/2026` | `5/29/2026` | This should've been done first oops |
 | Create Assembly BOM | `5/28/2026` | | Button Set Added |
-| Create Breakout Board BOM | `6/4/2026` | `6/10/2026` | Done |
+| ~~Create Breakout Board BOM~~ | `6/4/2026` | `6/10/2026` | Done |
 | Create MCU Board BOM | `5/28/2026` | | Missing Driver + Connectors |
 | EDA: PCB Schematic | `5/28/2026` | | Breakout Done |
 | EDA: PCB Layout | `6/7/2026` | | Breakout Done |
